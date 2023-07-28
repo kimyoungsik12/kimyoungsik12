@@ -3,12 +3,16 @@
 </p>
 
 <p align="center">
+
   📧Email📧<br>
   kys88544@naver.com
+  
 </p>
 
 <p align="center">
+  
   안녕하세요! 백엔드 주니어 개발자 김영식입니다.
+
 </p>
 
 <p align="center">
