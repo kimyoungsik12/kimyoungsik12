@@ -1,9 +1,3 @@
-<style>
-  /* 단락의 위 아래 간격을 설정하는 스타일 */
-  p {
-    margin: 20px 0;
-  }
-</style>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=welcome!" alt="header">
